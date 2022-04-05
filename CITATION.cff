@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with FAIRshare.
+# Visit https://fairdataihub.org/fairshare to learn more!
+
+abstract: Simplifying data curation for researchers funded by the NIH SPARC initiative
+authors:
+- affiliation: FAIR Data Innovations Hub
+  email: ssoundarajan@calmi2.org
+  family-names: Soundarajan
+  given-names: Sanjay
+- affiliation: California Medical Innovations Institute
+  email: bpatel@calmi2.org
+  family-names: Patel
+  given-names: Bhavesh
+- affiliation: Fair Data Innovations Hub
+  family-names: ''
+  given-names: fairdataihub-bot
+- affiliation: New York University
+  family-names: Srivastava
+  given-names: Harshit
+- affiliation: University of Maryland - College Park
+  family-names: Bhansali
+  given-names: Ishani
+cff-version: 1.2.0
+date-released: '2022-04-05T13:23:46.045Z'
+keywords:
+- COVID-19
+- Machine Learning
+license: Apache-2.0
+message: If you use this software, please cite it as below.
+repository-code: https://github.com/guestAccount76/SODA-for-SPARC
+title: Test
+type: software
